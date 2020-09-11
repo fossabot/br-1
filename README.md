@@ -8,6 +8,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/pingcap/br)](https://goreportcard.com/report/github.com/pingcap/br)
 [![GitHub release](https://img.shields.io/github/tag/pingcap/br.svg?label=release)](https://github.com/pingcap/br/releases)
 [![GitHub release date](https://img.shields.io/github/release-date/pingcap/br.svg)](https://github.com/pingcap/br/releases)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fovervenus%2Fbr-1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fovervenus%2Fbr-1?ref=badge_shield)
 
 **Backup & Restore (BR)** is a command-line tool for distributed backup and restoration of the TiDB cluster data.
 
@@ -48,3 +49,6 @@ for details on submitting patches and the contribution workflow.
 ## License
 
 BR is under the Apache 2.0 license. See the [LICENSE](./LICENSE.md) file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fovervenus%2Fbr-1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fovervenus%2Fbr-1?ref=badge_large)
